@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+#Finance Tracker App
+
+<img src="https://github.com/VikashKumarDas-2001/Finance-Tracker/blob/main/Screenshot%202024-03-27%20004933.png" />
+
+This project was tailindcss with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
